@@ -17,10 +17,10 @@ def eck(k,lista=False):
 ```
 
 `eck(50)`
-![Alt text](image.png)
+![Alt text](docs/image.png)
 
 `eck(1000)`
-![Alt text](image-1.png)
+![Alt text](docs/image-1.png)
 
 `eck(20**4)`
-![Alt text](image-2.png)
+![Alt text](docs/image-2.png)
